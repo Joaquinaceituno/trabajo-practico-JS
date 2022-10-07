@@ -14,13 +14,22 @@ body{
 .respuesta1{
     font-family: 'Times New Roman', Times, serif;
     font-size:larger;
+    text-align: center;
+    line-height: 50px;
 }
 .pregunta1{
     background-color: ghostwhite;
     margin: 15px;
 }
-
-.respuesta1{
+#tablajs{
     text-align: center;
-    line-height: 50px;
+    width: auto;
+    height: auto;
+    display: grid;
+}
+#tablajs2{
+    text-align: center;
+    width: auto;
+    height: auto;
+    display: grid;
 }
