@@ -1,9 +1,9 @@
 body{
     background-color: black;
 }
-#container{
+
  
-}
+
 #titlep{
     text-align: center;
     color: whitesmoke;
@@ -123,6 +123,10 @@ body{
     justify-content: center;
     width: auto;
     height: auto;
-   
+    display: grid;
+}
+#tabla3{
+    width: auto;
+    height: auto;
     display: grid;
 }
