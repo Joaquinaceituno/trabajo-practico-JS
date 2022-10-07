@@ -12,6 +12,7 @@ body{
 }
 .title{
     text-align: center;
+    font-family: 'Times New Roman', Times, serif;
 }
 .respuesta1{
     font-family: 'Times New Roman', Times, serif;
@@ -129,4 +130,12 @@ body{
     width: auto;
     height: auto;
     display: grid;
+}
+.principal{
+    color:brown;
+    float:left;
+    bottom: 30px;
+}
+.texto{
+    text-align: center;
 }
