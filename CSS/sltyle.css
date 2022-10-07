@@ -1,11 +1,12 @@
 body{
-    background-color: gold;
+    background-color: black;
 }
 #container{
  
 }
 #titlep{
     text-align: center;
+    color: whitesmoke;
  
 }
 .title{
