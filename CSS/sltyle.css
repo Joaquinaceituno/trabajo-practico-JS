@@ -1,8 +1,11 @@
-#container{
-    background-color: palegreen;
-    display: grid;
+body{
+    background-color: gold;
 }
-.title{
+#container{
+ 
+}
+#titlep{
+    text-align: center;
  
 }
 .respuesta{
