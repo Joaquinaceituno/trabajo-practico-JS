@@ -114,3 +114,10 @@ body{
     background-color: ghostwhite;
     margin: 15px;
 }
+.logo{
+    justify-content: center;
+    width: auto;
+    height: auto;
+   
+    display: grid;
+}
