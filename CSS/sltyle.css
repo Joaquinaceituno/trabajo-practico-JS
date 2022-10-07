@@ -15,7 +15,7 @@ body{
     font-family: 'Times New Roman', Times, serif;
     font-size:larger;
     text-align: center;
-    line-height: 50px;
+    line-height: 35px;
 }
 .pregunta1{
     background-color: ghostwhite;
@@ -32,4 +32,84 @@ body{
     width: auto;
     height: auto;
     display: grid;
+}
+.respuesta2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:larger;
+    text-align: center;
+    line-height: 35px;
+}
+.pregunta2{
+    background-color: ghostwhite;
+    margin: 15px;
+}
+.respuesta3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:larger;
+    text-align: center;
+    line-height: 35px;
+}
+.pregunta3{
+    background-color: ghostwhite;
+    margin: 15px;
+}
+.respuesta4{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:larger;
+    text-align: center;
+    line-height: 35px;
+}
+.pregunta4{
+    background-color: ghostwhite;
+    margin: 15px;
+}
+.respuesta5{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:larger;
+    text-align: center;
+    line-height: 35px;
+}
+.pregunta5{
+    background-color: ghostwhite;
+    margin: 15px;
+}
+.respuesta6{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:larger;
+    text-align: center;
+    line-height: 35px;
+}
+.pregunta6{
+    background-color: ghostwhite;
+    margin: 15px;
+}
+.respuesta7{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:larger;
+    text-align: center;
+    line-height: 35px;
+}
+.pregunta7{
+    background-color: ghostwhite;
+    margin: 15px;
+}
+.respuesta8{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:larger;
+    text-align: center;
+    line-height: 35px;
+}
+.pregunta8{
+    background-color: ghostwhite;
+    margin: 15px;
+}
+.respuesta9{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:larger;
+    text-align: center;
+    line-height: 35px;
+}
+.pregunta9{
+    background-color: ghostwhite;
+    margin: 15px;
 }
