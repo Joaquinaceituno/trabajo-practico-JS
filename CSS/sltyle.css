@@ -8,14 +8,19 @@ body{
     text-align: center;
  
 }
-.respuesta{
+.title{
+    text-align: center;
+}
+.respuesta1{
     font-family: 'Times New Roman', Times, serif;
     font-size:larger;
 }
-.pregunta{
+.pregunta1{
     background-color: ghostwhite;
     margin: 15px;
 }
-.title{
+
+.respuesta1{
     text-align: center;
+    line-height: 50px;
 }
